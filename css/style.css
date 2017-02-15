@@ -1,0 +1,32 @@
+body {
+	background: #000;
+}
+
+.wrapper {
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 250px;
+}
+
+.timer {
+	width: 600px;
+	height: 90px;
+	font-size: 70px;
+	font-weight: bold;
+	background: transparent;
+	color: red;
+	border: none;
+}
+
+.box {
+	text-align: center;
+	margin-top: 20px;
+}
+
+ol {
+	width: 300px;
+	padding-top: 30px;
+	margin: 0 auto;
+	font-size: 30px;
+	color: grey;
+}
